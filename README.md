@@ -1,2 +1,2 @@
 # Python
-Pyton lessions
+Python lessions
